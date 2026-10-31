@@ -1,5 +1,3 @@
-> 本仓库是 DSH 分层记忆/自我进化插件。安装：`dsh plugin --profile desktop add "<本仓库目录>"`。
-> 配置：README 下方“快速开始”有完整环境变量与 profile 步骤；记忆目录/WebUI/外部 CLI 均按文档配置。
 # dsh-memory-evolve 使用场景指南
 
 > **一句话**：让 DSH 里的 AI 拥有跨会话的长期记忆、帮你管理待办与技能、还能拉起一群 AI 会话和外部 AI 代理协同干活——**越用越懂你，换会话不丢上下文**。
